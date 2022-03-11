@@ -2,6 +2,11 @@
 MCDM_ServerSide_MongoDB
 
 
+## MongoDB Install
+
+[Mac - Instruktion](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+
+
 
 ## Snippets
 
