@@ -4,10 +4,24 @@ MCDM_ServerSide_MongoDB
 
 ## MongoDB Install
 
-[Mac - Install](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 
-[Mac - Compass](https://docs.mongodb.com/compass/current/install/)
+### Mac Install.
 
+Det er en to-trins process på Mac. Man skal installere mongoDB og Compass.
+
+[Mac - MongoDB Install](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+
+[Mac - MongoDB Compass (Gui for MongoDB)](https://docs.mongodb.com/compass/current/install/)
+
+### MacOS start/stop MonGO DB Services.
+
+Start:
+``` brew services start mongodb-community@5.0 ```
+
+Stop
+``` brew services stop mongodb-community@5.0```
+
+Herefter kan man starte Compass.
 
 
 ## Snippets
