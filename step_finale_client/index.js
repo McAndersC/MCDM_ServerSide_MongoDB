@@ -1,8 +1,6 @@
-const server = require('./lib/server.js');
+const server = require('./lib/server');
 
-// App Modul Object
 const app = {};
-
 // Applications Initialisering.
 app.init = () => {
 
@@ -10,5 +8,7 @@ app.init = () => {
 
 };
 
-// Kalder Initialisering af applikationen.
+// Kalder Initializing af applicationen.
 app.init();
+
+module.export = app;
