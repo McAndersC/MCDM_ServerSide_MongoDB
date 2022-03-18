@@ -86,3 +86,5 @@ Hertil skal vi på vores Android eller iPhone installere expo appen til at hjæl
 ``` 
 npm install --global expo-cli 
 ```
+
+
