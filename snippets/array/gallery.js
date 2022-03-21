@@ -44,7 +44,7 @@ slider.innerHTML = testArray[currentIndex].name;
 
 testArray.map((obj) => {
 
-    catalog.innerHTML += `<div class="catBtn">${obj.name}</div>`
+    catalog.innerHTML += `<div class="catBtn"><div class="someArt">${obj.name}</div></div>`
 
 })
 
